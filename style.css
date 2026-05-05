@@ -605,7 +605,7 @@ nav > p {
     width: 300px;
   }
   .hero-section .section-contant {
-    padding: 40px 0px 20px 20px;
+    padding: 40px;
     text-align: center;
     flex-direction: column-reverse;
     justify-content: center;
